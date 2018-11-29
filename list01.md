@@ -29,3 +29,12 @@ praise
 * 网络: 歌颂；赞许；夸奖
 * 变形 `Simple Present`：praises；`Present Participle`：praising；`Past Tense`：praised；
 
+behind the scenes
+---
+* na. 知道内幕；秘密地
+* Web 幕后花絮；在幕后；在后台
+
+under the hood
+---
+* un. 暗舱飞行
+* Web 下罩；在引擎盖下面；`藏在表面之下的机制或结构`
