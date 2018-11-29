@@ -38,3 +38,11 @@ under the hood
 ---
 * un. 暗舱飞行
 * Web 下罩；在引擎盖下面；`藏在表面之下的机制或结构`
+
+boilerplate
+---
+* US ['bɔɪlər.pleɪt] UK ['bɔɪlə(r).pleɪt]
+* n.（可供模仿的）样板文件
+* Web 构建样板；创建样板；飞行器的试验样品
+* `Plural Form`：boilerplates
+
