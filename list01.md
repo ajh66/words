@@ -52,3 +52,14 @@ intuitive
 * adj. 直觉的；直观的
 * Web 直觉式；直觉型；有直觉力的
 * E.g.: Imperative programming is intuitive enough that young students are learning it with ease in their school’s STEM programs, and it’s powerful enough that it makes up the bulk of code that drives the largest enterprises. (Imperative Programming VS Reactive Programming)
+
+garden hose
+---
+* un.园艺胶管；花园浇水带
+* Web 橡胶软管；花园浇水用软管；花园浇水用的软管
+
+spigot
+---
+* US ['spɪɡət] UK ['spɪɡət]
+* n.（龙头中的）塞；（尤指户外的）龙头
+* Web 塞子；插口；栓
