@@ -46,3 +46,9 @@ boilerplate
 * Web 构建样板；创建样板；飞行器的试验样品
 * `Plural Form`：boilerplates
 
+intuitive
+---
+* US [inˈtuːitiv] UK [inˈtjuːətiv]
+* adj. 直觉的；直观的
+* Web 直觉式；直觉型；有直觉力的
+* E.g.: Imperative programming is intuitive enough that young students are learning it with ease in their school’s STEM programs, and it’s powerful enough that it makes up the bulk of code that drives the largest enterprises. (Imperative Programming VS Reactive Programming)
