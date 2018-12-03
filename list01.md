@@ -63,3 +63,28 @@ spigot
 * US ['spɪɡət] UK ['spɪɡət]
 * n.（龙头中的）塞；（尤指户外的）龙头
 * Web 塞子；插口；栓
+
+upgrade
+---
+* US ['ʌp.ɡreɪd] UK ['ʌp.ɡreɪd]
+* v. 提升；提高；改进；改善
+* adv. 上坡
+* n.〈美〉上坡(的)；上升(的)
+* Web 升级；使升级；
+
+upgradation
+---
+* US [ˌʌpgreɪ'deɪʃn] UK [ˌʌpgreɪ'deɪʃn]
+
+degrade/downgrade
+---
+* US [dɪ'ɡreɪd] UK [dɪ'ɡreɪd]
+* v. 降解；降低；降低…身份；侮辱…的人格
+* Web 降级；退化；堕落
+
+degradation
+---
+* US [.deɡrə'deɪʃ(ə)n] UK [.deɡrə'deɪʃ(ə)n]
+
+
+
