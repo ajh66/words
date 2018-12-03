@@ -86,5 +86,8 @@ degradation
 ---
 * US [.deɡrə'deɪʃ(ə)n] UK [.deɡrə'deɪʃ(ə)n]
 
-
+back and forth
+---
+* na. 来回地
+* Web 反复地；往返；前后
 
