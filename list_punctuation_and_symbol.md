@@ -64,6 +64,8 @@ symbol
 
 `""` double quotes 双引号
 
+\` back tick 反勾号; 反引号
+
 单数 singular
 
 复数 plural
