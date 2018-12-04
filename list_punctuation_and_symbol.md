@@ -1,3 +1,16 @@
+punctuation
+---
+* US [.pʌŋktʃu'eɪʃ(ə)n] UK [.pʌŋktʃu'eɪʃ(ə)n]
+* n. 标点符号；标点符号用法
+* Web 标点法；标点符号的使用；全部标点符号
+
+symbol
+---
+* US ['sɪmb(ə)l] UK ['sɪmb(ə)l]
+* n. 符号；象征；【宗】信条；元素符号列表
+* v.〈罕〉=symbolize
+* Web 讯宝；象徵；标志
+
 * asterisk
   star
 / slash (forward slash) 斜杠、正斜杠
