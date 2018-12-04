@@ -12,54 +12,58 @@ symbol
 * Web 讯宝；象徵；标志
 
 ---
-`*` asterisk/star
+`*` asterisk/star 星号
 
 `/` slash (forward slash) 斜杠、正斜杠
 
 `\` backslash 反斜线
 
-`:` colon
+`:` colon 冒号
 
-`;` semicolon
+`;` semicolon 分号
 
-`,` comma
+`,` comma 逗号
 
-`.` period/dot/point
+`.` period/dot/point 句号；点
 
-`#` pound sign; hash mark
+`#` pound sign 井号; hash mark 散列标记
 
-`?` question mark
+`?` question mark 问号
 
-`-` dash
+`-` dash 破折号
 
-`-` hyphen [ˈhaɪfən] 连字符
+`-` hyphen [ˈhaɪfən] 连字符; 连接号
 
-`_` underscore
+`_` underscore 下划线
 
-`~` tilde character
+`~` tilde ['tɪldə] character 波浪号
 
-`&` ampersand/and
+`&` ampersand/and 和号; 与符号
 
-`$` dollar sign
+`$` dollar sign 美元符号
 
-`!` exclamation mark; exclamation point
+`!` exclamation mark; exclamation point 感叹号; 惊叹号
 
-`+` addition
+`+` addition 加法
 
-`-` subtraction
+`-` subtraction 减法
 
-`*` multiplication
+`*` multiplication 乘法
 
-`/` division
+`/` division 除法
 
-`%` modulus
+`%` modulus 取模
 
-`[]` brackets (bracket)
+`[]` brackets (bracket) 括号
 
-`()` parentheses (parenthesis)
+`()` parentheses (parenthesis) 圆括号
 
-`{}` brace; curly brace
+`{}` brace; curly brace 大括号
 
-`''` quotes (quote); sigle quotes
+`''` quotes (quote); sigle quotes 单引号
 
-`""` double quotes
+`""` double quotes 双引号
+
+单数 singular
+
+复数 plural
