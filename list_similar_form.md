@@ -22,3 +22,11 @@ expression
 * US [ɪk'spreʃ(ə)n] UK [ɪk'spreʃ(ə)n]
 * n. 表达；表情；说法；压榨
 * Web 表达式；表现；运算式
+
+# attendee VS attendant
+"Attendee" is a person who attends or participates in a gathering or conference. In short, a guest at an event.
+与会嘉宾
+
+"Attendant" is a person employed to provide a service to the public or the attendees in a particular place. An attendant is a kind of assistant hired by the place, company or event.
+向与会嘉宾提供服务或者帮助的人
+如flight attendant是飞机乘务员的意思
