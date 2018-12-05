@@ -91,3 +91,16 @@ back and forth
 * na. 来回地
 * Web 反复地；往返；前后
 
+distinct
+---
+* US [dɪ'stɪŋkt] UK [dɪ'stɪŋkt]
+* adj. 清晰的；清楚的；明白的；明显的
+* Web 不同的；独特的；截然不同的
+* `SQL`中“不包含重复的值”
+
+distinction
+---
+* US [dɪ'stɪŋkʃ(ə)n] UK [dɪ'stɪŋkʃ(ə)n]
+* n. 区别；区分；差别；卓越
+* Web 特性；级别；荣誉
+
