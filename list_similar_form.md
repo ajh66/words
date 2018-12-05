@@ -1,4 +1,4 @@
-# impressive VS expressive
+# `impressive` VS `expressive`
 impressive
 ---
 * US [imˈprɛsiv] UK [ɪm'presɪv]
@@ -23,7 +23,7 @@ expression
 * n. 表达；表情；说法；压榨
 * Web 表达式；表现；运算式
 
-# attendee VS attendant
+# `attendee` VS `attendant`
 "Attendee" is a person who attends or participates in a gathering or conference. In short, a guest at an event.
 与会嘉宾
 
