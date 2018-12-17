@@ -1,3 +1,24 @@
+Eureka
+---
+* 美 [jʊ'rikə] 英 [jʊ'riːkə]
+* int.（因找到某物，尤指问题的答案而高兴）我发现了
+* 网络 尤里卡；交响诗篇；小镇疑云
+
+Legend says that Eureka was first uttered by **Greek physicist Archimedes** when, on
+discovering the principal of **buoyant force** while sitting in a bath, he leapt out of the
+bath and ran home naked shouting “Eureka!” 
+
+buoyant force
+---
+* 美 ['bujənt] 英 ['bɔɪənt]
+* na. 浮力
+* 网络 气泡浮力；流体的浮力；上浮力
+
+bath tub
+---
+* un. 盆地融坑；洗槽；浴盆
+* 网络 浴缸；澡盆；盆浴
+
 idiom
 ---
 * US['ɪdiəm] UK['ɪdiəm]
