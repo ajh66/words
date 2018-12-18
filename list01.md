@@ -1,3 +1,9 @@
+tedious
+---
+* US ['tidiəs] UK ['tiːdiəs]
+* adj. 冗长的；啰嗦的；单调乏味的；令人厌烦的
+* Web 冗长乏味的；单调的；沉闷的
+
 leverage
 ---
 * US ['lev(ə)rɪdʒ] UK ['liːvərɪdʒ]
