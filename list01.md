@@ -1,8 +1,22 @@
+leverage
+---
+* US ['lev(ə)rɪdʒ] UK ['liːvərɪdʒ]
+* n. 杠杆，杠杆作用，影响力
+* v. 发挥杠杆作用，施加影响
+* Web 都市侠盗；杠杆比率；杠杆率
+
+We sincerely hope to work with you to leverage our global resources to develop simultaneously more room!  
+我们热忱地希望与您合作，`利用`我们与全球同步的资源共同开发更广阔的空间！  
+The only way Kim can leverage his weaker military power is by making his opponents believe he may be crazy enough to launch a war anyway.  
+金正日若想`扭转`朝鲜虚弱的军事地位，只能让对手相信，他真有可能疯狂到发动战争的程度。  
+Then you will look into how Spring Boot leverages the @Conditional feature to configure beans automatically based on certain criteria.
+
 Eureka
 ---
 * 美 [jʊ'rikə] 英 [jʊ'riːkə]
 * int.（因找到某物，尤指问题的答案而高兴）我发现了
 * 网络 尤里卡；交响诗篇；小镇疑云
+* Spring Cloud Netflix Eureka
 
 Legend says that Eureka was first uttered by **Greek physicist Archimedes** when, on
 discovering the principal of **buoyant force** while sitting in a bath, he leapt out of the
