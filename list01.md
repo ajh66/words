@@ -1,3 +1,9 @@
+cumbersome
+---
+* US ['kʌmbərsəm] UK ['kʌmbə(r)s(ə)m]
+* adj. 大而笨重的；难以携带的；缓慢复杂的；冗长的
+* Web 麻烦的；讨厌的；累赘的
+
 tedious
 ---
 * US ['tidiəs] UK ['tiːdiəs]
