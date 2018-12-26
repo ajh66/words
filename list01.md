@@ -11,11 +11,13 @@ leverage
 * v. 发挥杠杆作用，施加影响
 * Web 都市侠盗；杠杆比率；杠杆率
 
-We sincerely hope to work with you to leverage our global resources to develop simultaneously more room!  
+We sincerely hope to work with you to **leverage** our global resources to develop simultaneously more room!  
 我们热忱地希望与您合作，`利用`我们与全球同步的资源共同开发更广阔的空间！  
-The only way Kim can leverage his weaker military power is by making his opponents believe he may be crazy enough to launch a war anyway.  
+The only way Kim can **leverage** his weaker military power is by making his opponents believe he may be crazy enough to launch a war anyway.  
 金正日若想`扭转`朝鲜虚弱的军事地位，只能让对手相信，他真有可能疯狂到发动战争的程度。  
-Then you will look into how Spring Boot leverages the @Conditional feature to configure beans automatically based on certain criteria.
+
+Then you will look into how Spring Boot **leverages** the @Conditional feature to configure beans automatically based on certain criteria.  
+As Spring’s REST support is built on top of SpringMVC, you can **leverage** the knowledge of SpringMVC for building REST APIs.
 
 Eureka
 ---
