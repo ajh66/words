@@ -1,3 +1,14 @@
+# `authentication` VS `authorization`
+>>>
+authentication
+---
+Authentication refers to the process of verifying the user, which is typically done by asking for credentials.
+
+authorization
+---
+Authorization refers to the process of verifying whether or not the user is allowed to do a certain activity.
+>>>
+
 # `prone` VS `prune`
 >>>
 prone
