@@ -1,3 +1,11 @@
+onward
+---
+* US ['ɑnwərd] UK ['ɒnwə(r)d]
+* adj. 继续的；向前的
+* adv. 同“onwards”
+* Web 前进；前进的；一路向前
+* E.g. Spring Security from version 3.2 onward provides Java configuration support for security.
+
 cumbersome
 ---
 * US ['kʌmbərsəm] UK ['kʌmbə(r)s(ə)m]
