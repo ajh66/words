@@ -1,3 +1,10 @@
+blurry
+---
+* US [ˈblɜrri] UK [blɜː(r)d]
+* adj. 模糊的；难以理解的；记不清楚的
+* Web 视力模糊的；模糊不清的
+* See https://stackoverflow.com/questions/46890879/blurry-x11-forwarding-via-mobaxterm
+
 onward
 ---
 * US ['ɑnwərd] UK ['ɒnwə(r)d]
