@@ -1,3 +1,10 @@
+trustworthy
+---
+* US ['trʌs(t).wɜrði] UK ['trʌs(t).wɜː(r)ði]
+* adj. 值得信任的；可信赖的；可靠的
+* Web 值得信赖的
+* that you can rely on to be good, honest, sincere, etc.
+
 blurry
 ---
 * US [ˈblɜrri] UK [blɜː(r)d]
