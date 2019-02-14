@@ -1,3 +1,10 @@
+intercept
+---
+* 美 [.ɪntər'sept] 英 [.ɪntə(r)'sept]
+* n. 拦截；【数】截距；侦听
+* v. 拦截；拦阻；截住
+* In the man-in-the-middle (MITM) attack, the hacker places themselves between communicating hosts to intercept information.
+
 symmetric
 ---
 * 美 [sɪ'metrɪk] 英 [sɪ'metrɪk]
