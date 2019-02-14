@@ -1,3 +1,10 @@
+symmetric
+---
+* 美 [sɪ'metrɪk] 英 [sɪ'metrɪk]
+* adj.对称的
+* 网络对称性；对称式；匀称的
+* made up of exactly similar parts facing each other or around an axis; symmetrical.
+
 expert/expertise
 ---
 * 'expert n. 专家；行家；能手；a person who has a comprehensive and authoritative knowledge of or skill in a particular area
