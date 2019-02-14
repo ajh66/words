@@ -1,3 +1,10 @@
+consult
+---
+* consult v. 咨询；查询；请教；查阅
+* consultation n. 咨询；磋商；查阅；商讨
+* consultant n. 顾问；高级顾问医师；会诊医师
+* consultancy n. 咨询公司
+
 trustworthy
 ---
 * US ['trʌs(t).wɜrði] UK ['trʌs(t).wɜː(r)ði]
