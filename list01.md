@@ -1,9 +1,14 @@
+expert/expertise
+---
+* 'expert n. 专家；行家；能手；a person who has a comprehensive and authoritative knowledge of or skill in a particular area
+*  exper'tise n. 专长；专门知识；专门技能；expert skill or knowledge in a particular field
+
 consult
 ---
-* consult v. 咨询；查询；请教；查阅
-* consultation n. 咨询；磋商；查阅；商讨
-* consultant n. 顾问；高级顾问医师；会诊医师
-* consultancy n. 咨询公司
+* con'sult v. 咨询；查询；请教；查阅
+* consul'tation n. 咨询；磋商；查阅；商讨
+* con'sultant n. 顾问；高级顾问医师；会诊医师
+* con'sultancy n. 咨询公司
 
 trustworthy
 ---
