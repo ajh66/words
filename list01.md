@@ -1,3 +1,19 @@
+sane & sanity
+---
+* US [seɪn] UK [seɪn]
+* adj. 精神健全的；神志正常的；明智的；理智的
+* US ['sænəti] UK ['sænəti]
+* n. 理智；明智；精神健全；神志正常
+
+sanitize & sanitary
+---
+* US ['sænɪ.taɪz] UK ['sænɪtaɪz]
+* v. 去除…中使人不快的内容；净化；（用化学制剂）消毒
+* Web 使…清洁；给…消毒；对…作为省处理，给…消毒
+* US ['sænɪ.teri] UK ['sænət(ə)ri]
+* adj. 卫生的；环境卫生的；公共卫生的；清洁的
+* n. (有卫生设备的)公共厕所
+
 intercept
 ---
 * 美 [.ɪntər'sept] 英 [.ɪntə(r)'sept]
