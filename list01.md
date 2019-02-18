@@ -1,3 +1,17 @@
+bribe
+---
+* US [braɪb] UK [braɪb]
+* v. 贿赂；向（某人）行贿
+* n. 贿赂
+* Web 收买；向...行贿；买通
+
+bride
+---
+* US [braɪd] UK [braɪd]
+* n. 新娘
+* Web 新妇；新嫁娘；新娘课堂
+
+
 temper
 ---
 * US ['tempər] UK ['tempə(r)]
