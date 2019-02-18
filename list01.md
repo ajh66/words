@@ -1,3 +1,10 @@
+insane
+---
+* US [ɪn'seɪn] UK [ɪn'seɪn]
+* adj. 精神失常的；精神错乱的；十分愚蠢的；疯狂的
+* n. 精神失常的人；精神错乱的人
+* Web 患精神病的；疯子；精神病患者的
+
 sane & sanity
 ---
 * US [seɪn] UK [seɪn]
