@@ -1,3 +1,20 @@
+temper
+---
+* US ['tempər] UK ['tempə(r)]
+* n. 脾气；情绪；心情；性情
+* v. 使缓和；使温和；使（金属）回火
+* lose/keep your temper (with sb) 发脾气；忍住怒火； to fail/manage to control your anger
+
+tempt
+---
+* US [tempt] UK [tempt]
+* v. 诱惑；引诱；怂恿；劝诱
+* Web 吸引；试探；尝试
+* 引诱；诱惑 to `attract` sb or make sb want to do or have sth, even if they know it is wrong
+* 劝诱；鼓动；怂恿；利诱 to `persuade` or try to persuade sb to do sth that you want them to do, for example by offering them sth
+* Your offer does not tempt me at all, nothing can tempt me to leave my present position. 你给的条件一点也打动不了我的心，什么东西都不能诱使我离开现在的职位。
+
+
 insane
 ---
 * US [ɪn'seɪn] UK [ɪn'seɪn]
