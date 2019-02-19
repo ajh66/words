@@ -1,3 +1,9 @@
+accommodation
+---
+* US [ə.kɑmə'deɪʃ(ə)n] UK [ə.kɒmə'deɪʃ(ə)n]
+* n. 住宿；住处；和解；膳宿
+* Web 适应；调节；顺应
+
 bribe
 ---
 * US [braɪb] UK [braɪb]
