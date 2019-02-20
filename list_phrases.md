@@ -9,8 +9,10 @@ We can sometimes leave out *also*:
 > I identified with Denzel Washington ***not only*** as an actor ***but*** as a person.
 
 To add emphasis, we can use *not only* at the beginning of a clause. When we do this, we invert the subject and the verb:
-> ***Not only*** was it raining all day at the wedding ***but also*** the band was late.
-> ***Not only*** will they paint the outside of the house ***but also*** the inside.
+> ***Not only*** was it raining all day at the wedding ***but also*** the band was late.  
+> ***Not only*** will they paint the outside of the house ***but also*** the inside.  
+> ***Not only*** can Yocto build toolchains, bootloaders, kernels, and root filesystems as Buildroot can, 
+***but*** it can generate an entire Linux distribution for you with binary packages that can be installed at runtime.
 
 When there is no auxiliary verb or main verb be, we use do, does, did:
 > ***Not only*** did she forget my birthday, ***but*** she ***also*** didn’t even apologise for forgetting it.
