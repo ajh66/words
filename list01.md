@@ -1,3 +1,25 @@
+inferior & superior
+---
+**inferior**
+* US [ɪn'fɪriər] UK [ɪn'fɪəriə(r)]
+* adj. 较差的；次的；比不上…的；级别低的；lower in rank, status, or quality
+* adj. 【解剖学】low or lower in position
+* n. 不如别人的人；级别（或地位）低的人；a person lower than another in rank, status, or ability
+* Web 下级的；劣等的；下等的
+
+**superior**
+* US [sʊ'pɪriər] UK [sʊ'pɪəriə(r)]
+* adj.（在品质上）更好的；占优势的；更胜一筹的；higher in rank, status, or quality
+* adj. 【解剖学】further above or out; higher in position
+* n. `上级`；`上司`；级别（或地位、职位）更高的人；用作宗教团体领导的头衔；a person or thing superior to another in rank, status, or quality, especially a colleague in a higher position
+* Web 高级房；优越的；较高的
+
+supervisor
+---
+* US ['supər.vaɪzər] UK ['suːpə(r).vaɪzə(r)]
+* n. 监督人；指导者；主管人；a person who supervises sb/sth
+* Web 论文导师；监工；监督者
+
 accommodation
 ---
 * US [ə.kɑmə'deɪʃ(ə)n] UK [ə.kɒmə'deɪʃ(ə)n]
