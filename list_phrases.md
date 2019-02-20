@@ -6,7 +6,7 @@ We use *not only X but also Y* in formal contexts:
 > This investigation is ***not only*** one that is continuing and worldwide ***but also*** one that we expect to continue for quite some time.  
 
 We can sometimes leave out *also*:
-> I identified with Denzel Washington not only as an actor but as a person.
+> I identified with Denzel Washington ***not only*** as an actor ***but*** as a person.
 
 To add emphasis, we can use *not only* at the beginning of a clause. When we do this, we invert the subject and the verb:
 > ***Not only*** was it raining all day at the wedding ***but also*** the band was late.
